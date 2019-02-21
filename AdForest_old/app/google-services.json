@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "117000303323",
+    "firebase_url": "https://boobur-201518.firebaseio.com",
+    "project_id": "boobur-201518",
+    "storage_bucket": "boobur-201518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117000303323:android:20780f4f6e645b71",
+        "android_client_info": {
+          "package_name": "com.booburbundle1.adforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117000303323-r7ua91h8nq15pgno1k0v1rri0r1iqg3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booburbundle1.adforest",
+            "certificate_hash": "fa259a812da5b90e87fbfa52e5279670cd7dbc3b"
+          }
+        },
+        {
+          "client_id": "117000303323-m8an5t5nl8p4e6m3q8bj5beab6qg6g6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booburbundle1.adforest",
+            "certificate_hash": "cc7e67e90d77f3d9274575dbda75c3c145b6c2ef"
+          }
+        },
+        {
+          "client_id": "117000303323-qud3vuq5m86cn4irip3pcauu60fbfi26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrM5kMFKO0fMw02WTEJ_abOxlRlUFh44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117000303323-0qp9qtg725rcg7dgpkminggi9k9gh4mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
